@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 46
+  }, {
+    "width" : 64,
+    "height" : 92
+  }, {
+    "width" : 128,
+    "height" : 183
+  }, {
+    "width" : 256,
+    "height" : 366
+  }, {
+    "width" : 512,
+    "height" : 732
+  }, {
+    "width" : 1024,
+    "height" : 1463
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1024,
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-05",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1463
+}
