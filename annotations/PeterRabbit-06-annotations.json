@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter upsetting three plants",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter upsetting three plants</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:33:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192024579",
+    "dcterms:modified" : "2023-01-08T15:33:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=557,122,422,429"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M556.68072,122.48193h211.06325v0h211.06325v214.52108v214.52108h-211.06325h-211.06325v-214.52108z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9edec530-a977-4c64-b7da-76f1b842a3c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter and the white cat",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter and the white cat</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:34:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192041946",
+    "dcterms:modified" : "2023-01-08T15:34:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=88,838,372,405"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M88.14458,838.25301h185.99398v0h185.99398v202.41867v202.41867h-185.99398h-185.99398v-202.41867z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_53ae8a06-1b89-4f7b-ab62-bbcaa30bd855\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02"
+    } ]
+  } ],
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-06-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
