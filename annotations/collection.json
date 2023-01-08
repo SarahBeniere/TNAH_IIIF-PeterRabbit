@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-01-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-02-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-03-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-04-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-05-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-06-annotations.json" ],
+  "otherContent" : [ "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-01-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-02-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-03-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-04-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-05-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-06-annotations.json", "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-07-annotations.json" ],
   "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/collection.json",
   "label" : "All annotations loaded in SarahBeniere/IIIF-BeatrixPotter project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
