@@ -1,0 +1,302 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Peter Rabbit"
+  }, {
+    "label" : "Author",
+    "value" : "Beatrix Potter"
+  }, {
+    "label" : "Date",
+    "value" : "1920"
+  }, {
+    "label" : "Publisher",
+    "value" : "The Saalfield Publishing Company"
+  } ],
+  "description" : [ {
+    "@value" : "Annotating Beatrix Potter's Peter Rabbit",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Images provided by Gallica (Bibliothèque nationale de France)",
+  "viewingHing" : "paged",
+  "sequences" : [ {
+    "@id" : "http://7a71bf2f-7dbe-4801-b1c6-b3be3a545a9c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-01",
+      "height" : 1389,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f22f8434-171a-49a6-9783-541370d271a3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1389,
+          "width" : 1024
+        },
+        "on" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-02",
+      "height" : 1447,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cb2fb5f0-e232-4224-ad71-63e826c67b3e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-02",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1447,
+          "width" : 1024
+        },
+        "on" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84441e2b-8d3d-4490-a563-4a4a99b2fcd0",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-03",
+      "height" : 1452,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0effec67-aea9-4e62-a509-06e0d066a384",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-03/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-03",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1452,
+          "width" : 1024
+        },
+        "on" : "http://84441e2b-8d3d-4490-a563-4a4a99b2fcd0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9585f049-282a-4de9-a619-c98e010720c0",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-04",
+      "height" : 1432,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0482c82d-a186-47ba-a900-12cbb2e111f4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-04/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-04",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1432,
+          "width" : 1024
+        },
+        "on" : "http://9585f049-282a-4de9-a619-c98e010720c0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-05",
+      "height" : 1463,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1725193f-b279-44ff-a307-ddea190a1507",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-05/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-05",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1463,
+          "width" : 1024
+        },
+        "on" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-06",
+      "height" : 1435,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb3c7f79-2d7e-4e8a-9251-d5bcb4228924",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-06/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-06",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1435,
+          "width" : 1024
+        },
+        "on" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ffaf312c-7754-43ad-8e0b-1c64b70bb94a",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-07",
+      "height" : 1447,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9e4b0b9-4aac-4abf-ab6a-a5d0c5576d58",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-07/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-07",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1447,
+          "width" : 1024
+        },
+        "on" : "http://ffaf312c-7754-43ad-8e0b-1c64b70bb94a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-08",
+      "height" : 1438,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5002ac29-1146-42aa-9f7f-d2f66485c731",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-08/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-08",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1438,
+          "width" : 1024
+        },
+        "on" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://31ce5537-5a03-4575-96dc-8d63a86ac155",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-09",
+      "height" : 1452,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c289f1cb-3d57-4619-96af-f78f771c91ec",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-09/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-09",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1452,
+          "width" : 1024
+        },
+        "on" : "http://31ce5537-5a03-4575-96dc-8d63a86ac155"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b7ce8ca6-2f28-4bbc-a693-296f998ba8fa",
+      "@type" : "sc:Canvas",
+      "label" : "PeterRabbit-10",
+      "height" : 1386,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5547d05c-7a39-4bb6-8c73-65d5a23ca73d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1386,
+          "width" : 1024
+        },
+        "on" : "http://b7ce8ca6-2f28-4bbc-a693-296f998ba8fa"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "label" : {
+    "@value" : "PeterRabbit-Manifest",
+    "@language" : "en"
+  },
+  "thumbnail" : {
+    "@id" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616"
+  }
+}
