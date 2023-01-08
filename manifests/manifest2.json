@@ -2,6 +2,11 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json",
   "@type" : "sc:Manifest",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/118343825/f4acf8153f5658f85665b19b0b939be6/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Title",
     "value" : "Peter Rabbit"
@@ -54,7 +59,11 @@
         },
         "on" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-01-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-01"
+      } ]
     }, {
       "@id" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5",
       "@type" : "sc:Canvas",
@@ -80,7 +89,11 @@
         },
         "on" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-02-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-02"
+      } ]
     }, {
       "@id" : "http://84441e2b-8d3d-4490-a563-4a4a99b2fcd0",
       "@type" : "sc:Canvas",
@@ -106,7 +119,11 @@
         },
         "on" : "http://84441e2b-8d3d-4490-a563-4a4a99b2fcd0"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-03-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-03"
+      } ]
     }, {
       "@id" : "http://9585f049-282a-4de9-a619-c98e010720c0",
       "@type" : "sc:Canvas",
@@ -132,7 +149,11 @@
         },
         "on" : "http://9585f049-282a-4de9-a619-c98e010720c0"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-04-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-04"
+      } ]
     }, {
       "@id" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda",
       "@type" : "sc:Canvas",
@@ -158,7 +179,11 @@
         },
         "on" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-05-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-05"
+      } ]
     }, {
       "@id" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02",
       "@type" : "sc:Canvas",
@@ -184,7 +209,11 @@
         },
         "on" : "http://32a247e2-f49f-4c9c-b9db-1461129adb02"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-06-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-06"
+      } ]
     }, {
       "@id" : "http://ffaf312c-7754-43ad-8e0b-1c64b70bb94a",
       "@type" : "sc:Canvas",
@@ -210,7 +239,11 @@
         },
         "on" : "http://ffaf312c-7754-43ad-8e0b-1c64b70bb94a"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-07-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-07"
+      } ]
     }, {
       "@id" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255",
       "@type" : "sc:Canvas",
@@ -236,7 +269,11 @@
         },
         "on" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-08-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-08"
+      } ]
     }, {
       "@id" : "http://31ce5537-5a03-4575-96dc-8d63a86ac155",
       "@type" : "sc:Canvas",
@@ -262,7 +299,11 @@
         },
         "on" : "http://31ce5537-5a03-4575-96dc-8d63a86ac155"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-09-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-09"
+      } ]
     }, {
       "@id" : "http://b7ce8ca6-2f28-4bbc-a693-296f998ba8fa",
       "@type" : "sc:Canvas",
@@ -288,7 +329,11 @@
         },
         "on" : "http://b7ce8ca6-2f28-4bbc-a693-296f998ba8fa"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://sarahbeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-10-annotations.json",
+        "@type" : "sc.AnnotationList",
+        "label" : "Annotations PeterRabbit-10"
+      } ]
     } ]
   } ],
   "structures" : [ ],
