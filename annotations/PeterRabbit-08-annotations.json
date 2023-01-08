@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter on the wheel-barrow watching Mr. McGregor",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter on the wheel-barrow watching Mr. McGregor</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:37:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192221622",
+    "dcterms:modified" : "2023-01-08T15:37:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=715,154,250,296"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M714.54545,154.36364h125.09091v0h125.09091v147.81818v147.81818h-125.09091h-125.09091v-147.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0d483665-cd01-4b39-88d5-0583da742f28\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mrs. Rabbit giving Peter camomile tea",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mrs. Rabbit giving Peter camomile tea</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:38:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192313436",
+    "dcterms:modified" : "2023-01-08T15:38:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=581,879,397,383"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M580.90909,879.18182h198.27273v0h198.27273v191.45455v191.45455h-198.27273h-198.27273v-191.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6dfacec2-4348-4b44-8e65-903a8f88f2b1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter traumatized in bed",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter traumatized in bed</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:37:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192249039",
+    "dcterms:modified" : "2023-01-08T15:37:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=405,568,85,103"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M404.72727,573.63636v25.45455l22.72727,30l6.36364,39.09091l49.09091,2.72727l7.27273,-102.72727l-84.54545,1.81818v0v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_cd980d67-8b0d-43e1-a189-9799e7f4c194\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mrs. Rabbit making camomile tea",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mrs. Rabbit making camomile tea</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:37:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192274692",
+    "dcterms:modified" : "2023-01-08T15:37:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=199,570,262,195"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M200.18182,577.27273l5.45455,96.36364l90,23.63636l24.54545,57.27273l140.90909,10.90909l-33.63636,-159.09091l-65.45455,-36.36364l-162.72727,3.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_49a99e5c-286e-4883-809e-bd2fec23e91f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flopsy, Mopsy and Cotton-tail",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Flopsy, Mopsy and Cotton-tail</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:38:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192288762",
+    "dcterms:modified" : "2023-01-08T15:38:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=113,649,215,219"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M112.72727,868h107.36364v0h107.36364v-109.45455v-109.45455h-107.36364h-107.36364v109.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_54c2f3a9-e07e-4979-ab30-6b39a8ad0a03\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://70e339c9-7e9a-42b4-8ae7-fe6292ebb255"
+    } ]
+  } ],
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-08-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
