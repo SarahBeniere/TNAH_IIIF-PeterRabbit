@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter's memory 1: Peter eating a carrot, waiting for his father",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Peter's memory 1</strong>: Peter eating a carrot, waiting for his father</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:28:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191714536",
+    "dcterms:modified" : "2023-01-08T15:28:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=530,669,444,594"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M530.40105,668.75928h222.01136v0h222.01136v296.81521v296.81521h-222.01136h-222.01136v-296.81521z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f74d6b2f-ff69-4716-9276-79082c95232f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mrs. Rabbit with her basket and umbrella",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mrs. Rabbit with her basket and umbrella</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:27:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191678135",
+    "dcterms:modified" : "2023-01-08T15:27:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=30,1009,194,267"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M30,1009.18182h96.90909v0h96.90909v133.27273v133.27273h-96.90909h-96.90909v-133.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_34be17e5-172a-4eda-bd06-edbd4e45785d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flopsy, Mopsy and Cotton-tail",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Flopsy, Mopsy and Cotton-tail</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:25:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191533138",
+    "dcterms:modified" : "2023-01-08T15:25:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=142,305,205,216"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M347.86627,304.83373h-102.73072v0h-102.73072v108.21747v108.21747h102.73072h102.73072v-108.21747z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5bd9fc03-8899-48e0-93b7-a15ee7220f87\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mrs. Rabbit",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mrs. Rabbit</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:25:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191557926",
+    "dcterms:modified" : "2023-01-08T15:25:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=96,125,189,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M123.99751,149.45214c17.43265,-14.13678 42.02423,-24.66395 66.73498,-24.65138v0v0c24.71075,0.01258 46.23796,9.86058 66.73498,24.65138c20.49702,14.79079 28.46395,37.32911 27.64253,59.51369c-0.82142,22.18458 -10.4312,44.01542 -27.64253,59.51369c-17.21134,15.49827 -42.02423,24.66395 -66.73498,24.65138c-24.71075,-0.01258 -49.31935,-9.20342 -66.73498,-24.65138c-17.41563,-15.44796 -27.63828,-37.15303 -27.64253,-59.51369c-0.00426,-22.36066 10.20988,-45.37691 27.64253,-59.51369z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3a53f659-bdc0-4c13-8bb5-bbfb8a3c81ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Rabbit family in front of their home \"in a sand-bank, underneath the root of a very big fir-tree\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Rabbit family in front of their home \"in a sand-bank, underneath the root of a very big fir-tree\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:27:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191653269",
+    "dcterms:modified" : "2023-01-08T15:27:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=728,373,245,165"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M732,490.77273l126.36364,10l30,37.27273l82.72727,-0.90909l2.72727,-157.27273l-245.45455,-7.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7422f7f4-2d90-4509-b4a5-3734afb295eb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:25:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191542462",
+    "dcterms:modified" : "2023-01-08T15:25:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=360,273,100,251"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M360.06988,273.45301h49.81446v0h49.81446v125.6512v125.6512h-49.81446h-49.81446v-125.6512z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_92ac016b-1bd2-4721-b02c-5afb59cdc2a5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ec8c1892-a0ce-4104-a002-b2132baf63f5"
+    } ]
+  } ],
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-02-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
