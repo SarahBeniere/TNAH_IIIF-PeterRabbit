@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Publisher's information",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Publisher's information</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:24:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191461553",
+    "dcterms:modified" : "2023-01-08T15:24:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=345,1228,290,48"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M345.45455,1276.45454h145.09091v0h145.09091v-24v-24h-145.09091h-145.09091v24z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_41b306c9-1554-4c26-bae2-ade9270865a6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Erased handwritten note",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Erased handwritten note</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:25:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191505285",
+    "dcterms:modified" : "2023-01-08T15:25:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=652,103,222,272"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M652,323.63636l76.36364,50.90909l145.45455,-214.54545l-87.27273,-57.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_e1055a26-3f23-4cdb-9126-d11e97c4a0b5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa041866-17f7-4b3b-8546-e03fe44c1616"
+    } ]
+  } ],
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-01-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
