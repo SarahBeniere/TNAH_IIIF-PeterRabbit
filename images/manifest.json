@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1024,
+    "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/canvas/",
+    "label" : {
+      "none" : [ "PeterRabbit-10" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 44
+            }, {
+              "width" : 64,
+              "height" : 87
+            }, {
+              "width" : 128,
+              "height" : 174
+            }, {
+              "width" : 256,
+              "height" : 347
+            }, {
+              "width" : 512,
+              "height" : 693
+            }, {
+              "width" : 1024,
+              "height" : 1386
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1386
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1386
+        },
+        "target" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-10/canvas/"
+      } ]
+    } ],
+    "height" : 1386
+  }, {
+    "width" : 1024,
     "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/images/PeterRabbit-09/canvas/",
     "label" : {
       "none" : [ "PeterRabbit-09" ]
