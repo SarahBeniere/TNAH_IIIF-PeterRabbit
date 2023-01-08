@@ -1,0 +1,16 @@
+{
+  "id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in SarahBeniere/IIIF-BeatrixPotter project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json",
+    "label" : {
+      "@value" : "PeterRabbit-Manifest",
+      "@language" : "en"
+    }
+  } ]
+}
