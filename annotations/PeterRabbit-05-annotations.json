@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter, losing hope, and the friendly sparrows",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter, losing hope, and the friendly sparrows</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:31:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191907037",
+    "dcterms:modified" : "2023-01-08T15:31:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=34,116,238,222"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M34.08434,116.09759h119.09759v0h119.09759v111.16566v111.16566h-119.09759h-119.09759v-111.16566z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ae51d135-ae15-42c9-b892-588cd5848cdb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter jumping into the can full of water",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Peter jumping into the can full of water</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:33:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673192009417",
+    "dcterms:modified" : "2023-01-08T15:33:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=534,840,449,521"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M599.96196,916.3901c41.48239,-43.77618 100.00001,-76.37482 158.80121,-76.33587v0v0c58.8012,0.03895 110.02691,30.53445 158.80121,76.33587c48.7743,45.80142 67.73225,115.59395 65.77762,184.2911c-1.95464,68.69714 -24.82187,136.2989 -65.77762,184.2911c-40.95575,47.99219 -100.00001,76.37482 -158.80121,76.33587c-58.8012,-0.03895 -117.35934,-28.49947 -158.80121,-76.33587c-41.44188,-47.8364 -65.76749,-115.04869 -65.77762,-184.2911c-0.01013,-69.2424 24.29523,-140.51492 65.77762,-184.2911z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_b4ba8f62-7327-4a8b-ab32-83c8c9f983e1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mr. McGregor and his sieve",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mr. McGregor and his sieve</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:32:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191929125",
+    "dcterms:modified" : "2023-01-08T15:32:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=523,160,118,150"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M640.43614,160.16386h-58.93012v0h-58.93012v75.03133v75.03133h58.93012h58.93012v-75.03133z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d2a1df10-c84d-4091-9a92-0de1397ad4ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Peter's memory 3: Peter and his father with baskets full of vegetables at midday",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Peter's memory 3</strong>: Peter and his father with baskets full of vegetables at midday</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118343825",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T15:32:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673191958997",
+    "dcterms:modified" : "2023-01-08T15:35:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=48,696,462,610"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M48.18554,696.00964h231.0259v0h231.0259v305.05723v305.05723h-231.0259h-231.0259v-305.05723z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,0],&quot;editable&quot;:true}\" id=\"rectangle_4f7a15e2-6496-40da-928c-5b9ceaac93c6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ddfb6437-be0f-4d86-a1a4-2218e2360bda"
+    } ]
+  } ],
+  "@id" : "https://SarahBeniere.github.io/IIIF-BeatrixPotter/annotations/PeterRabbit-05-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
